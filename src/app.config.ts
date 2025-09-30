@@ -3,11 +3,14 @@ export default defineAppConfig({
     'pages/checkin/checkin',
     'pages/help/help',
     'pages/profile/profile',
+    'pages/profile/contact',
+    'pages/profile/recharge',
+    'pages/profile/refund',
   ],
   window: {
     backgroundTextStyle: 'light',
     navigationBarBackgroundColor: '#fff',
-    navigationBarTitleText: '活着呢',
+    navigationBarTitleText: '报平安',
     navigationBarTextStyle: 'black'
   },
   tabBar: {

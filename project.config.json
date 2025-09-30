@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "dist/",
   "projectname": "alive",
-  "description": "活着呢小程序",
+  "description": "报平安小程序",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,
@@ -35,5 +35,6 @@
     "ignore": [],
     "include": []
   },
-  "editorSetting": {}
+  "editorSetting": {},
+  "libVersion": "3.10.1"
 }

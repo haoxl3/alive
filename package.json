@@ -2,7 +2,7 @@
   "name": "alive",
   "version": "1.0.0",
   "private": true,
-  "description": "活着呢小程序",
+  "description": "报平安小程序",
   "templateInfo": {
     "name": "default",
     "typescript": true,
